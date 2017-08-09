@@ -1,0 +1,22 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "First proyect on agular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daretana90/angular.git"
+  },
+  "author": "Daniel Jaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daretana90/angular/issues"
+  },
+  "homepage": "https://github.com/daretana90/angular#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
